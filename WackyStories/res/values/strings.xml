@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wacky Stories</string>
+    <string name="action_settings">Settings</string>
+    <string name="storyText">Your funny story. Ha ha!</string>
+    <string name="title_activity_fill_in_blanks">FillInBlanksActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="createStoryButtonText">Create story!</string>
+    <string name="anotherStoryButtonText">Another story!</string>
+    <string name="title_activity_story">StoryActivity</string>
+
+</resources>
