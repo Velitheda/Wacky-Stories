@@ -1,4 +1,4 @@
 Wacky-Stories
 =============
 
-A fill-in-the-blanks story creator
+A fill-in-the-blanks story creator for android
